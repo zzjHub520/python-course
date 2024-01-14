@@ -24,7 +24,9 @@
 
 # P13 第一阶段-第一章-12-第一章内容重点回顾 09:42 
 
-# P14 第一阶段-第二章-01-字面量 08:40 
+# P14 第一阶段-第二章-01-字面量 08:40
+
+![image-20240114194401799](ImagesMarkDown/黑马程序员python教程讲义/image-20240114194401799.png) 
 
 # P15 第一阶段-第二章-02-注释 08:51 
 
@@ -32,31 +34,65 @@
 
 # P17 第一阶段-第二章-04-数据类型 10:02 
 
+![image-20240114194507882](ImagesMarkDown/黑马程序员python教程讲义/image-20240114194507882.png)
+
 # P18 第一阶段-第二章-05-数据类型转换 13:12 
+
+![image-20240114194107203](ImagesMarkDown/黑马程序员python教程讲义/image-20240114194107203.png)
 
 # P19 第一阶段-第二章-06-标识符 14:41 
 
+![image-20240114194019278](ImagesMarkDown/黑马程序员python教程讲义/image-20240114194019278.png)
+
 # P20 第一阶段-第二章-07-运算符 11:29 
+
+![image-20240114193933280](ImagesMarkDown/黑马程序员python教程讲义/image-20240114193933280.png)
 
 # P21 第一阶段-第二章-08-字符串的三种定义方式 09:14 
 
+![image-20240114194855638](ImagesMarkDown/黑马程序员python教程讲义/image-20240114194855638.png)
+
+![image-20240114195107439](ImagesMarkDown/黑马程序员python教程讲义/image-20240114195107439.png)
+
+
+
 # P22 第一阶段-第二章-09-字符串的拼接 05:21 
 
+![image-20240114195724940](ImagesMarkDown/黑马程序员python教程讲义/image-20240114195724940.png)
+
 # P23 第一阶段-第二章-10-字符串格式化 12:55 
+
+![image-20240114195916081](ImagesMarkDown/黑马程序员python教程讲义/image-20240114195916081.png)
 
 # P24 第一阶段-第二章-11-字符串格式化的精度控制 07:17 
 
 # P25 第一阶段-第二章-12-字符串格式化的方式2 04:51 
 
+![image-20240114200516426](ImagesMarkDown/黑马程序员python教程讲义/image-20240114200516426.png)
+
 # P26 第一阶段-第二章-13-对表达式进行格式化 08:58 
+
+![image-20240114200748219](ImagesMarkDown/黑马程序员python教程讲义/image-20240114200748219.png)
 
 # P27 第一阶段-第二章-14-字符串格式化练习题讲解 06:44 
 
 # P28 第一阶段-第二章-15-数据输入(input语句) 10:39 
 
+![image-20240114200930664](ImagesMarkDown/黑马程序员python教程讲义/image-20240114200930664.png)
+
+![image-20240114201130684](ImagesMarkDown/黑马程序员python教程讲义/image-20240114201130684.png)
+
+
+
 # P29 第一阶段-第三章-01-布尔类型和比较运算符 17:44 
 
+![image-20240114201323052](ImagesMarkDown/黑马程序员python教程讲义/image-20240114201323052.png)
+
+
+
 # P30 第一阶段-第三章-02-if语句的基本格式 10:28 
+
+![image-20240114201614178](ImagesMarkDown/黑马程序员python教程讲义/image-20240114201614178.png)
 
 # P31 第一阶段-第三章-03-案例-成年人判断讲解 03:31 
 
@@ -66,6 +102,8 @@
 
 # P34 第一阶段-第三章-06-if_elif_else组合使用的语法 17:09 
 
+![image-20240114201803236](ImagesMarkDown/黑马程序员python教程讲义/image-20240114201803236.png)
+
 # P35 第一阶段-第三章-07-案例-猜猜心里数字讲解 04:24 
 
 # P36 第一阶段-第三章-08-判断语句的嵌套 17:57 
@@ -73,6 +111,10 @@
 # P37 第一阶段-第三章-09-判断语句综合案例 08:00 
 
 # P38 第一阶段-第四章-01-while循环的基础应用 12:25 
+
+![image-20240114202031215](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202031215.png)
+
+![image-20240114202116211](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202116211.png)
 
 # P39 第一阶段-第四章-02-案例求1-100的和讲解 04:21 
 
@@ -84,11 +126,31 @@
 
 # P43 第一阶段-第四章-06-for循环的基础语法 10:16 
 
+![image-20240114202315386](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202315386.png)
+
+![image-20240114202409681](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202409681.png)
+
+![image-20240114202502686](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202502686.png)
+
+![image-20240114202610016](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202610016.png)
+
 # P44 第一阶段-第四章-07-for循环案例-数一数多少字母a讲解 03:53 
 
 # P45 第一阶段-第四章-08-range语句 11:30 
 
-# P46 第一阶段-第四章-09-for循环临时变量作用域 06:21 
+![image-20240114202741551](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202741551.png)
+
+![image-20240114202839047](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202839047.png)
+
+![image-20240114202914798](ImagesMarkDown/黑马程序员python教程讲义/image-20240114202914798.png)
+
+
+
+# P46 第一阶段-第四章-09-for循环临时变量作用域 06:21
+
+ ![image-20240114203155766](ImagesMarkDown/黑马程序员python教程讲义/image-20240114203155766.png)
+
+#  
 
 # P47 第一阶段-第四章-10-for循环的嵌套使用 09:23 
 
@@ -96,19 +158,39 @@
 
 # P49 第一阶段-第四章-12-continue和break 12:28 
 
+![image-20240114204044278](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204044278.png)
+
+![image-20240114204133619](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204133619.png)
+
+![image-20240114204218969](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204218969.png)
+
+![image-20240114204333743](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204333743.png)
+
+
+
 # P50 第一阶段-第四章-13-循环综合案例 07:55 
 
 # P51 第一阶段-第五章-01-函数的初体验 11:47 
 
 # P52 第一阶段-第五章-02-函数的基础定义语法 09:03 
 
+![image-20240114204555108](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204555108.png)
+
+![image-20240114204648004](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204648004.png)
+
 # P53 第一阶段-第五章-03-函数基础定义练习案例 02:50 
 
 # P54 第一阶段-第五章-04-函数的传入参数 10:06 
 
+![image-20240114204817077](ImagesMarkDown/黑马程序员python教程讲义/image-20240114204817077.png)
+
 # P55 第一阶段-第五章-05-函数的参数练习案例 03:10 
 
 # P56 第一阶段-第五章-06-函数的返回值定义语法 08:06 
+
+![image-20240114205008121](ImagesMarkDown/黑马程序员python教程讲义/image-20240114205008121.png)
+
+
 
 # P57 第一阶段-第五章-07-函数返回值之None类型 09:12 
 
@@ -118,15 +200,59 @@
 
 # P60 第一阶段-第五章-10-变量在函数中的作用域 09:47 
 
+![image-20240114210641698](ImagesMarkDown/黑马程序员python教程讲义/image-20240114210641698.png)
+
+![image-20240114210706972](ImagesMarkDown/黑马程序员python教程讲义/image-20240114210706972.png)
+
 # P61 第一阶段-第五章-11-函数综合案例 18:46 
 
 # P62 第一阶段-第六章-01-数据容器入门 04:43 
 
+![image-20240114210833908](ImagesMarkDown/黑马程序员python教程讲义/image-20240114210833908.png)
+
+![image-20240114210945283](ImagesMarkDown/黑马程序员python教程讲义/image-20240114210945283.png)
+
 # P63 第一阶段-第六章-02-列表的定义语法 10:37 
+
+![image-20240114211222781](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211222781.png)
+
+![image-20240114211303298](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211303298.png)
+
+![image-20240114211401498](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211401498.png)
+
+
 
 # P64 第一阶段-第六章-03-列表的下标索引 12:01 
 
+![image-20240114211555225](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211555225.png)
+
+![image-20240114211657424](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211657424.png)
+
+![image-20240114211828437](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211828437.png)
+
+
+
 # P65 第一阶段-第六章-04-列表的常用操作方法 29:59 
+
+![image-20240114211953175](ImagesMarkDown/黑马程序员python教程讲义/image-20240114211953175.png)
+
+![image-20240114213355746](ImagesMarkDown/黑马程序员python教程讲义/image-20240114213355746.png)
+
+![image-20240114214708781](ImagesMarkDown/黑马程序员python教程讲义/image-20240114214708781.png)
+
+![image-20240114214925101](ImagesMarkDown/黑马程序员python教程讲义/image-20240114214925101.png)
+
+![image-20240114215329697](ImagesMarkDown/黑马程序员python教程讲义/image-20240114215329697.png)
+
+![image-20240114215628990](ImagesMarkDown/黑马程序员python教程讲义/image-20240114215628990.png)
+
+![image-20240114220021089](ImagesMarkDown/黑马程序员python教程讲义/image-20240114220021089.png)
+
+![image-20240114220119468](ImagesMarkDown/黑马程序员python教程讲义/image-20240114220119468.png)
+
+![image-20240114220156432](ImagesMarkDown/黑马程序员python教程讲义/image-20240114220156432.png)
+
+![image-20240114220414447](ImagesMarkDown/黑马程序员python教程讲义/image-20240114220414447.png)
 
 # P66 第一阶段-第六章-05-列表的常用操作课后练习讲解 05:43 
 
@@ -134,21 +260,79 @@
 
 # P68 第一阶段-第六章-07-元组的定义和操作 20:49 
 
+![image-20240114220924668](ImagesMarkDown/黑马程序员python教程讲义/image-20240114220924668.png)
+
+![image-20240114221105788](ImagesMarkDown/黑马程序员python教程讲义/image-20240114221105788.png)
+
+
+
 # P69 第一阶段-第六章-08-字符串的定义和操作 22:24 
+
+![image-20240114221346439](ImagesMarkDown/黑马程序员python教程讲义/image-20240114221346439.png)
+
+
 
 # P70 第一阶段-第六章-09-字符串的课后练习讲解 03:38 
 
 # P71 第一阶段-第六章-10-数据容器（序列）的切片 13:00 
 
+![image-20240114221815025](ImagesMarkDown/黑马程序员python教程讲义/image-20240114221815025.png)
+
+![image-20240114222120992](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222120992.png)
+
+![image-20240114222416674](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222416674.png)
+
+
+
+![image-20240114222513933](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222513933.png)
+
+![image-20240114222607618](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222607618.png)
+
+![image-20240114222646487](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222646487.png)
+
+![image-20240114222705030](ImagesMarkDown/黑马程序员python教程讲义/image-20240114222705030.png)
+
 # P72 第一阶段-第六章-11-序列的切片课后练习讲解 05:16 
 
 # P73 第一阶段-第六章-12-集合的定义和操作 24:10 
+
+![image-20240114223040302](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223040302.png)
+
+![image-20240114223300851](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223300851.png)
+
+![image-20240114223352515](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223352515.png)
+
+![image-20240114223550969](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223550969.png)
+
+![image-20240114223639081](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223639081.png)
+
+![image-20240114223732317](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223732317.png)
+
+![image-20240114223836029](ImagesMarkDown/黑马程序员python教程讲义/image-20240114223836029.png)
 
 # P74 第一阶段-第六章-13-集合的课后练习 02:51 
 
 # P75 第一阶段-第六章-14-字典的定义 23:28 
 
+![image-20240114224112953](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224112953.png)
+
+![image-20240114224203833](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224203833.png)
+
+![image-20240114224334552](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224334552.png)
+
+![image-20240114224513274](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224513274.png)
+
 # P76 第一阶段-第六章-15-字典的常用操作 15:53 
+
+![image-20240114224620464](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224620464.png)
+
+![image-20240114224656778](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224656778.png)
+
+![image-20240114224743066](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224743066.png)
+
+![image-20240114224825091](ImagesMarkDown/黑马程序员python教程讲义/image-20240114224825091.png)
+
+
 
 # P77 第一阶段-第六章-16-字典课后练习讲解 09:13 
 
@@ -156,23 +340,83 @@
 
 # P79 第一阶段-第六章-18-数据容器的通用操作 16:24 
 
+![image-20240114225008756](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225008756-17052438094091.png)
+
+![image-20240114225037368](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225037368.png)
+
+![image-20240114225205180](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225205180.png)
+
+![image-20240114225309520](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225309520.png)
+
+![image-20240114225421752](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225421752.png)
+
 # P80 第一阶段-第六章-19-拓展-字符串大小比较的方式 07:15 
 
 # P81 第一阶段-第七章-01-函数的多返回值 04:22 
 
+![image-20240114225846955](ImagesMarkDown/黑马程序员python教程讲义/image-20240114225846955.png)
+
 # P82 第一阶段-第七章-02-函数的多种参数使用形式 20:27 
+
+![image-20240114230042032](ImagesMarkDown/黑马程序员python教程讲义/image-20240114230042032.png)
+
+![image-20240114230106950](ImagesMarkDown/黑马程序员python教程讲义/image-20240114230106950.png)
+
+![image-20240114230519740](ImagesMarkDown/黑马程序员python教程讲义/image-20240114230519740.png)
+
+![image-20240114230650443](ImagesMarkDown/黑马程序员python教程讲义/image-20240114230650443.png)
+
+![image-20240114230905916](ImagesMarkDown/黑马程序员python教程讲义/image-20240114230905916.png)
+
+![image-20240114231045650](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231045650.png)
+
+![image-20240114231136900](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231136900.png)
 
 # P83 第一阶段-第七章-03-函数作为参数传递 11:42 
 
+![image-20240114231331029](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231331029.png)
+
+![image-20240114231539035](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231539035.png)
+
+
+
 # P84 第一阶段-第七章-04-lambda匿名函数 09:08 
+
+![image-20240114231712773](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231712773.png)
+
+![image-20240114231915981](ImagesMarkDown/黑马程序员python教程讲义/image-20240114231915981.png)
+
+
 
 # P85 第一阶段-第八章-01-文件编码概念 07:07 
 
 # P86 第一阶段-第八章-02-文件的读取操作 27:47 
 
+![image-20240114232434648](ImagesMarkDown/黑马程序员python教程讲义/image-20240114232434648.png)
+
+![image-20240114232614685](ImagesMarkDown/黑马程序员python教程讲义/image-20240114232614685.png)
+
+![image-20240114232727540](ImagesMarkDown/黑马程序员python教程讲义/image-20240114232727540.png)
+
+![image-20240114232837330](ImagesMarkDown/黑马程序员python教程讲义/image-20240114232837330.png)
+
+![image-20240114232954556](ImagesMarkDown/黑马程序员python教程讲义/image-20240114232954556.png)
+
+![image-20240114233028789](ImagesMarkDown/黑马程序员python教程讲义/image-20240114233028789.png)
+
+![image-20240114233226421](ImagesMarkDown/黑马程序员python教程讲义/image-20240114233226421.png)
+
+
+
 # P87 第一阶段-第八章-03-文件读取的课后练习讲解 08:41 
 
 # P88 第一阶段-第八章-04-文件的写出操作 09:59 
+
+![image-20240114233344948](ImagesMarkDown/黑马程序员python教程讲义/image-20240114233344948.png)
+
+![image-20240114233704886](ImagesMarkDown/黑马程序员python教程讲义/image-20240114233704886.png)
+
+
 
 # P89 第一阶段-第八章-05-文件的追加写入操作 04:53 
 
@@ -182,9 +426,35 @@
 
 # P92 第一阶段-第九章-02-异常的捕获 21:02 
 
+![image-20240114234423467](ImagesMarkDown/黑马程序员python教程讲义/image-20240114234423467.png)
+
+![image-20240114234710004](ImagesMarkDown/黑马程序员python教程讲义/image-20240114234710004.png)
+
+![image-20240114234822885](ImagesMarkDown/黑马程序员python教程讲义/image-20240114234822885.png)
+
+
+
+![image-20240114234922428](ImagesMarkDown/黑马程序员python教程讲义/image-20240114234922428.png)
+
+![image-20240114235014162](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235014162.png)
+
+![image-20240114235241740](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235241740.png)
+
+![image-20240114235350726](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235350726.png)
+
 # P93 第一阶段-第九章-03-异常的传递性 07:26 
 
+![image-20240114235500694](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235500694-17052477012712.png)
+
+
+
 # P94 第一阶段-第九章-04-模块的概念和导入 17:39 
+
+![image-20240114235749184](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235749184.png)
+
+![image-20240114235940972](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235940972.png)
+
+
 
 # P95 第一阶段-第九章-05-自定义模块并导入 14:53 
 
