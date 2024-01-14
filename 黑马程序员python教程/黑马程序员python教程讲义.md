@@ -454,19 +454,61 @@
 
 ![image-20240114235940972](ImagesMarkDown/黑马程序员python教程讲义/image-20240114235940972.png)
 
+![image-20240115000239487](ImagesMarkDown/黑马程序员python教程讲义/image-20240115000239487.png)
+
+![image-20240115000432212](ImagesMarkDown/黑马程序员python教程讲义/image-20240115000432212.png)
+
+![image-20240115000459635](ImagesMarkDown/黑马程序员python教程讲义/image-20240115000459635.png)
+
+
+
 
 
 # P95 第一阶段-第九章-05-自定义模块并导入 14:53 
 
+![image-20240115000637701](ImagesMarkDown/黑马程序员python教程讲义/image-20240115000637701.png)
+
+![image-20240115001049327](ImagesMarkDown/黑马程序员python教程讲义/image-20240115001049327.png)
+
+![image-20240115001648602](ImagesMarkDown/黑马程序员python教程讲义/image-20240115001648602.png)
+
+![image-20240115001939119](ImagesMarkDown/黑马程序员python教程讲义/image-20240115001939119.png)
+
+
+
 # P96 第一阶段-第九章-06-自定义Python包 13:12 
 
+![image-20240115002233045](ImagesMarkDown/黑马程序员python教程讲义/image-20240115002233045.png)
+
+![image-20240115003036607](ImagesMarkDown/黑马程序员python教程讲义/image-20240115003036607.png)
+
+![image-20240115003129833](ImagesMarkDown/黑马程序员python教程讲义/image-20240115003129833.png)
+
 # P97 第一阶段-第九章-07-安装第三方包 11:07 
+
+![image-20240115004943363](ImagesMarkDown/黑马程序员python教程讲义/image-20240115004943363.png)
+
+![image-20240115005041669](ImagesMarkDown/黑马程序员python教程讲义/image-20240115005041669.png)
+
+![image-20240115005132873](ImagesMarkDown/黑马程序员python教程讲义/image-20240115005132873.png)
+
+![image-20240115005604102](ImagesMarkDown/黑马程序员python教程讲义/image-20240115005604102.png)
+
+
 
 # P98 第一阶段-第九章-08-异常-模块-包-综合案例讲解 21:13 
 
 # P99 第一阶段-第十章-01-案例介绍 03:26 
 
 # P100 第一阶段-第十章-02-JSON数据格式的转换 14:54 
+
+![image-20240115005905725](ImagesMarkDown/黑马程序员python教程讲义/image-20240115005905725.png)
+
+![image-20240115010139547](ImagesMarkDown/黑马程序员python教程讲义/image-20240115010139547.png)
+
+![image-20240115010257602](ImagesMarkDown/黑马程序员python教程讲义/image-20240115010257602.png)
+
+![image-20240115010359652](ImagesMarkDown/黑马程序员python教程讲义/image-20240115010359652.png)
 
 # P101 第一阶段-第十章-03-pyecharts模块简介 07:15 
 
