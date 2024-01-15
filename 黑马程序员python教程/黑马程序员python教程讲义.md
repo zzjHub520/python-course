@@ -512,7 +512,23 @@
 
 # P101 第一阶段-第十章-03-pyecharts模块简介 07:15 
 
+![image-20240115221244072](ImagesMarkDown/黑马程序员python教程讲义/image-20240115221244072.png)
+
+![image-20240115221817422](ImagesMarkDown/黑马程序员python教程讲义/image-20240115221817422.png)
+
 # P102 第一阶段-第十章-04-pyecharts的入门使用 17:38 
+
+![image-20240115221917105](ImagesMarkDown/黑马程序员python教程讲义/image-20240115221917105.png)
+
+![image-20240115222244858](ImagesMarkDown/黑马程序员python教程讲义/image-20240115222244858.png)
+
+![image-20240115222429745](ImagesMarkDown/黑马程序员python教程讲义/image-20240115222429745.png)
+
+![image-20240115222447663](ImagesMarkDown/黑马程序员python教程讲义/image-20240115222447663.png)
+
+![image-20240115222619753](ImagesMarkDown/黑马程序员python教程讲义/image-20240115222619753.png)
+
+
 
 # P103 第一阶段-第十章-05-数据准备 19:38 
 
@@ -526,35 +542,151 @@
 
 # P108 第一阶段-第十二章-01-基础柱状图构建 07:51 
 
+![image-20240115223533649](ImagesMarkDown/黑马程序员python教程讲义/image-20240115223533649.png)
+
+
+
 # P109 第一阶段-第十二章-02-基础时间线柱状图绘制 12:38 
+
+![image-20240115223659482](ImagesMarkDown/黑马程序员python教程讲义/image-20240115223659482-17053294200131.png)
+
+![image-20240115224102426](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224102426.png)
+
+![image-20240115224207513](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224207513.png)
+
+![image-20240115224240259](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224240259-17053297608732.png)
+
+![image-20240115224337353](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224337353.png)
 
 # P110 第一阶段-第十二章-03-动态GDP柱状图绘制 39:07 
 
 # P111 第二阶段-第一章-01-初识对象 10:24 
 
+![image-20240115224832574](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224832574.png)
+
+![image-20240115224909527](ImagesMarkDown/黑马程序员python教程讲义/image-20240115224909527.png)
+
 # P112 第二阶段-第一章-02-类的成员方法 17:59 
+
+![image-20240115225005791](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225005791.png)
+
+![image-20240115225103741](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225103741.png)
+
+![image-20240115225133825](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225133825.png)
+
+![image-20240115225212175](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225212175.png)
+
+![image-20240115225316039](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225316039.png)
+
+![image-20240115225358780](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225358780.png)
 
 # P113 第二阶段-第一章-03-类和对象 09:34 
 
 # P114 第二阶段-第一章-04-构造方法 12:22 
 
+![image-20240115225756976](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225756976.png)
+
+![image-20240115225907282](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225907282.png)
+
+![image-20240115225948171](ImagesMarkDown/黑马程序员python教程讲义/image-20240115225948171.png)
+
+![image-20240115230118183](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230118183.png)
+
 # P115 第二阶段-第一章-05-魔术方法 15:06 
 
+![image-20240115230235107](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230235107.png)
+
+![image-20240115230310623](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230310623.png)
+
+![image-20240115230404207](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230404207.png)
+
+![image-20240115230550354](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230550354.png)
+
+![image-20240115230617357](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230617357.png)
+
+![image-20240115230757990](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230757990.png)
+
+![image-20240115230838346](ImagesMarkDown/黑马程序员python教程讲义/image-20240115230838346.png)
+
+![image-20240115231042122](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231042122.png)
+
 # P116 第二阶段-第一章-06-封装 18:46 
+
+![image-20240115231144553](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231144553.png)
+
+![image-20240115231331477](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231331477.png)
+
+![image-20240115231525540](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231525540.png)
+
+
 
 # P117 第二阶段-第一章-07-封装的课后练习题讲解 05:50 
 
 # P118 第二阶段-第一章-08-继承的基础语法 21:45 
 
+![image-20240115231735602](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231735602.png)
+
+![image-20240115231815245](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231815245.png)
+
+![image-20240115231901203](ImagesMarkDown/黑马程序员python教程讲义/image-20240115231901203.png)
+
+![image-20240115232203137](ImagesMarkDown/黑马程序员python教程讲义/image-20240115232203137.png)
+
+
+
 # P119 第二阶段-第一章-09-复写父类成员和调用父类成员 13:28 
+
+![image-20240115232322218](ImagesMarkDown/黑马程序员python教程讲义/image-20240115232322218.png)
+
+![image-20240115232430744](ImagesMarkDown/黑马程序员python教程讲义/image-20240115232430744.png)
+
+![image-20240115232525265](ImagesMarkDown/黑马程序员python教程讲义/image-20240115232525265.png)
+
+
 
 # P120 第二阶段-第一章-10-变量的类型注解 21:19 
 
+![image-20240115233829937](ImagesMarkDown/黑马程序员python教程讲义/image-20240115233829937.png)
+
+![image-20240115233925151](ImagesMarkDown/黑马程序员python教程讲义/image-20240115233925151.png)
+
+![image-20240115234042626](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234042626.png)
+
+![image-20240115234348367](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234348367.png)
+
+![image-20240115234417429](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234417429.png)
+
+
+
 # P121 第二阶段-第一章-11-函数和方法类型注解 06:28 
+
+![image-20240115234730994](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234730994.png)
+
+![image-20240115234805854](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234805854.png)
+
+![image-20240115234927554](ImagesMarkDown/黑马程序员python教程讲义/image-20240115234927554.png)
 
 # P122 第二阶段-第一章-12-Union联合类型注解 06:15 
 
+![image-20240115235444462](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235444462.png)
+
+![image-20240115235517072](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235517072.png)
+
+![image-20240115235542101](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235542101.png)
+
 # P123 第二阶段-第一章-13-多态 14:23 
+
+![image-20240115235732299](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235732299.png)
+
+![image-20240115235921902](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235921902.png)
+
+![image-20240115235948962](ImagesMarkDown/黑马程序员python教程讲义/image-20240115235948962.png)
+
+![image-20240116000041737](ImagesMarkDown/黑马程序员python教程讲义/image-20240116000041737.png)
+
+![image-20240116000258745](ImagesMarkDown/黑马程序员python教程讲义/image-20240116000258745.png)
+
+![image-20240116000354902](ImagesMarkDown/黑马程序员python教程讲义/image-20240116000354902.png)
 
 # P124 第二阶段-第一章-14-数据分析案例步骤1-文件读取 31:25 
 
